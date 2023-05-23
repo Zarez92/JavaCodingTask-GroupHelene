@@ -10,13 +10,31 @@ public class OddOrEven {
             System.out.println(num + " Odd");
         }
 
+
+
+    }
+
+ /*   public static void main(String[] args) {
+        ISOddOrEven(5);
+       ISOddOrEven(6);
+
+  */
+
+
+
+    public static String OddOrEven( int num){
+        String result = "";
+        if (num % 2 == 0) {
+            result = "Even";
+        } else {
+            result = "Odd";
+        }
+return result;
     }
 
     public static void main(String[] args) {
-        ISOddOrEven(5);
-       ISOddOrEven(6);
+        System.out.println(OddOrEven(15));
     }
-
 }
 
 
