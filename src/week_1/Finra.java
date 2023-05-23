@@ -19,7 +19,7 @@ public class Finra {
     public static void main(String[] args) {
 
 
-      Finra(6);
+     FINRA(30);
         
         
     }
