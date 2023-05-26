@@ -1,11 +1,13 @@
 package week_1;
 
-import week_2.Zarko_ConsecutiveNumbers;
+import zarko_week_2.Zarko_ConsecutiveNumbers;
+import zarko_week_2.Zarko_DivisibleBy3_5_15;
+import zarko_week_2.Zarko_SwapVariables;
 
 import static week_1.DivisionWithoutOperator.division;
 import static week_1.Fin_Ra.FIN_RA;
 import static week_1.OddOrEven.ISOddOrEven;
-import static week_2.Zarko_ConsecutiveNumbers.ConsecutiveNumbers;
+import static zarko_week_2.Zarko_ConsecutiveNumbers.ConsecutiveNumbers;
 
 public class Runner {
 
@@ -19,18 +21,31 @@ public class Runner {
 /**
  * Week_1
  */
-
+        System.out.println("Week_1");
         FIN_RA(1);
+        System.out.println();
         System.out.println("-----------------------------------------");
-        division(51,6);
-        ISOddOrEven(5);
 
+        division(51,6);
+        System.out.println("-----------------------------------------");
+
+        ISOddOrEven(5);
         System.out.println("-----------------------------------------");
 
 /**
  * Week_2
  */
-        ConsecutiveNumbers();
+        System.out.println("Week_2");
+        Zarko_SwapVariables.swapVariables(10,20);
+        System.out.println("-----------------------------------------");
+
+        Zarko_DivisibleBy3_5_15.DivisibleBy3_5_15();
+        System.out.println("-----------------------------------------");
+
+        Zarko_ConsecutiveNumbers.ConsecutiveNumbers();
+        System.out.println("-----------------------------------------");
+
+
 
 
 
