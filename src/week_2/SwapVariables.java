@@ -1,5 +1,7 @@
 package week_2;
 
+import java.util.Scanner;
+
 public class SwapVariables {
     public static void main(String[] args) {
         int x=1;
@@ -10,6 +12,10 @@ public class SwapVariables {
         y=x^y;
         x=x^y;
         System.out.println("X is "+x+", Y is "+y);
+
+
+
+
 
 
 

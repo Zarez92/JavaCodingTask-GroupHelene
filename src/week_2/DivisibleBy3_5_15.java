@@ -13,7 +13,7 @@ public class DivisibleBy3_5_15 {
         System.out.println();
 
         System.out.print("Divisible by 5:");
-        for (int i = 3; i <= 100; i++) {
+        for (int i = 5; i <= 100; i++) {
             if (i % 5 == 0) {
                 System.out.print(i + " ");
             }
@@ -21,7 +21,7 @@ public class DivisibleBy3_5_15 {
 
         System.out.println();
         System.out.print("Divisible by 15:");
-        for (int i = 3; i <= 100; i++) {
+        for (int i = 15; i <= 100; i++) {
             if (i % 15 == 0) {
                 System.out.print(i + " ");
             }
