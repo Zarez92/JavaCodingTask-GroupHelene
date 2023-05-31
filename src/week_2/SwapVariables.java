@@ -12,7 +12,7 @@ public class SwapVariables {
         y=x^y;
         x=x^y;
         System.out.println("X is "+x+", Y is "+y);
-
+//made some changes
 
 
 
