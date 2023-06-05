@@ -1,0 +1,13 @@
+￼ WEEK THREE JAVA CODING TASKS ￼
+
+    1) Numbers - Prime Number
+    Write a method that can check if a number is prime or not
+
+    2) Number - Reverse negative number
+    Write a return method that can reverse digits of a negative number
+    and return it as int
+    Input: -35 output: -53
+
+    3) String - Frequency of Characters
+    Write a return method that can find the frequency of characters
+    Ex: FrequencyOfChars("AAABBCDD") ==> A3B2C1D2**
