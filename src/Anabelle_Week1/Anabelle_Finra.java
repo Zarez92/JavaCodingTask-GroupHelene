@@ -4,7 +4,7 @@ public class Anabelle_Finra {
 
     public static void finra(int num){
 
-        String result = "";
+
 
         if (num < 1 || num > 30){
             System.err.println("Invalid number");
