@@ -1,10 +1,10 @@
 package Anabelle_Week1;
 
 import com.sun.security.jgss.GSSUtil;
+import week_1.Eve_OddOrEven;
 
 public class Anabelle_Odd_Or_Even {
 
-    public static void main(String[] args) {
 
         public static void isEvenOrOdd(int num){
             if (num % 2 == 0){
@@ -13,6 +13,12 @@ public class Anabelle_Odd_Or_Even {
                 System.out.println(num + " Odd");
             }
         }
+
+    public static void main(String[] args) {
+
+        isEvenOrOdd(5);
+        isEvenOrOdd(6);
+
 
 
     }
