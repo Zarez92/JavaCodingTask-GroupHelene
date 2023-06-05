@@ -1,8 +1,5 @@
 package Anabelle_Week1;
 
-import javax.lang.model.SourceVersion;
-import java.io.FilterOutputStream;
-
 public class Anabelle_DivisionWithoutOperator {
     public static void divide(int num1, int num2) {
 
