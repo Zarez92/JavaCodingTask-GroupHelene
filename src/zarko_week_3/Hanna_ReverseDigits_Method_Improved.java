@@ -18,7 +18,6 @@ public class Hanna_ReverseDigits_Method_Improved {
         }
 
         return (num);
-
     }
 
 
