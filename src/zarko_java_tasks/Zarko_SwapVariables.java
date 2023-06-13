@@ -5,6 +5,7 @@ public class Zarko_SwapVariables {
 
 public static void swapVariables(int a, int b){
 
+
     a = a ^ b;
     b = a ^ b;
     a = a ^ b;

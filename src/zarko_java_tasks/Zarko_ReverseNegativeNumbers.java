@@ -26,19 +26,7 @@ public class Zarko_ReverseNegativeNumbers {
     }
 
 
-    public static boolean sameLetter(String str1, String str2) {
-        // Convert strings to character arrays
-        char[] charArray1 = str1.toCharArray();
-        char[] charArray2 = str2.toCharArray();
 
-        // Sort the character arrays
-        Arrays.sort(charArray1);
-        Arrays.sort(charArray2);
-
-        // Compare the sorted character arrays
-        return Arrays.equals(charArray1, charArray2);
-
-    }
 
     public static void main(String[] args) {
 
