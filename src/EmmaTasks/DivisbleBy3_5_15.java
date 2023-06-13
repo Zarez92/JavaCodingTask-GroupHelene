@@ -1,6 +1,4 @@
-package EmmaWeek2Tasks;
-
-import java.util.Arrays;
+package EmmaTasks;
 
 public class DivisbleBy3_5_15 {
 

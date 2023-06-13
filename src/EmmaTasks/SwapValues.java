@@ -1,4 +1,4 @@
-package EmmaWeek2Tasks;
+package EmmaTasks;
 
 public class SwapValues {
     public static void main(String[] args) {
