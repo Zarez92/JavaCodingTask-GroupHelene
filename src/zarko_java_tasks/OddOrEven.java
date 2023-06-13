@@ -9,7 +9,6 @@ public class OddOrEven {
             System.out.println(num + " Odd");
         }
 
-
     }
 
  /*   public static void main(String[] args) {

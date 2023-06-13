@@ -10,6 +10,7 @@ public class RemoveDuplicates {
 
     public static String removeDuplicates(String letters){
 
+
         String result = "";
         for (int i = 0; i < letters.length(); i++) {
 

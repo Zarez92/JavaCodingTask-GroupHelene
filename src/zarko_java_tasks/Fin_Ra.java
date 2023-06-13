@@ -10,6 +10,7 @@ for numbers which are multiple of 5, print "RA" instead of the number,
 and for numbers which are multiple of both 3 and 5, print "FINRA" instead of the number.
      */
 
+
     public static void FIN_RA(int num) {
 
         if (num > 30 || num < 0) {

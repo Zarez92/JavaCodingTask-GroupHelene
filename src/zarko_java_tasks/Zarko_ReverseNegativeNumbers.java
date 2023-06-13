@@ -27,7 +27,6 @@ public class Zarko_ReverseNegativeNumbers {
 
 
 
-
     public static void main(String[] args) {
 
         reverseNegativeNumbers(-1234560);
