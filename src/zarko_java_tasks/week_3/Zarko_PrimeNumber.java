@@ -1,4 +1,4 @@
-package zarko_java_tasks;
+package zarko_java_tasks.week_3;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,8 +6,13 @@ import java.util.Arrays;
 public class Zarko_PrimeNumber {
 
 
-    public static void primeNumber(int num) {
+    /**
+     1) Numbers - Prime Number
 
+     Write a method that can check if the numbers are prime or not!
+     */
+
+    public static void primeNumber(int num) {
 
         for (int i = 2; i <= num; i++) {
 
@@ -20,22 +25,13 @@ public class Zarko_PrimeNumber {
             }
 
             for (Integer eachPrime : prime) {
-               System.out.print(eachPrime + " ");
+                System.out.print(eachPrime + " ");
             }
-           //  System.out.print(prime.toString().substring(0, prime.toString().length() - 1).replace("[",""));
-        }//
-
-
-
-    }
-
-
-
-    public static void main(String[] args) {
-
-        primeNumber(50);
+        }
 
     }
 }
+
+
 
 

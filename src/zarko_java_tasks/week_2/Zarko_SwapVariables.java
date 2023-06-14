@@ -1,4 +1,4 @@
-package zarko_java_tasks;
+package zarko_java_tasks.week_2;
 
 public class Zarko_SwapVariables {
 

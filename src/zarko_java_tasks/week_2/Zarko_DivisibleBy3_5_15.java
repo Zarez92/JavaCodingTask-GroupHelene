@@ -1,9 +1,9 @@
-package zarko_java_tasks;
+package zarko_java_tasks.week_2;
 
 public class Zarko_DivisibleBy3_5_15 {
 
 
-    public static void DivisibleBy3_5_15() {
+    public static void divisibleBy3_5_15() {
 
         String NumsDevBy15 = "Divisible by 15: ";
         String NumsDevBy5 = "Divisible by 5: ";
@@ -30,7 +30,4 @@ public class Zarko_DivisibleBy3_5_15 {
 
     }
 
-    public static void main(String[] args) {
-        DivisibleBy3_5_15();
-    }
 }

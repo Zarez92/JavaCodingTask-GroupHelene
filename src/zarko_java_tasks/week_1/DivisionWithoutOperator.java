@@ -1,4 +1,4 @@
-package zarko_java_tasks;
+package zarko_java_tasks.week_1;
 
 public class DivisionWithoutOperator {
 

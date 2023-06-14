@@ -1,8 +1,8 @@
-package zarko_java_tasks;
+package zarko_java_tasks.week_2;
 
 public class ConsecutiveNumbers {
 
-    public static void ConsecutiveNumbers() {
+    public static void consecutiveNumbers() {
 
         int N = 1;
 
