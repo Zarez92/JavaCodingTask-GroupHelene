@@ -1,6 +1,6 @@
-package week_1;
+package ZC_week_1;
 
-public class Runner {
+public class ZC_Runner {
 
     /**
      * Hello Team!

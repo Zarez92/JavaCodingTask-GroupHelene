@@ -1,6 +1,6 @@
-package week_1;
+package ZC_week_1;
 
-public class OddOrEven {
+public class ZC_OddOrEven {
 
 
     public static void ISOddOrEven(int num) {
